@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a highly experienced **.NET Developer** with over 8 years of hands-on expertise building **high-performance, scalable backend systems** and **integrations** using **C#, ASP.NET Core**, and **Azure**.
+I’m a highly experienced **.NET Developer** with over 8 years of hands-on expertise building **high-performance, scalable systems** and **integrations** using **C#, ASP.NET Core**, and **Azure**.
 
 I specialize in:
 - **Cloud-native development** using Azure Functions and App Services
